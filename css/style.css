@@ -1,0 +1,48 @@
+body{
+    padding: 20px;
+}
+
+.port_5{
+    width: 150px;
+    height: 150px;
+}
+
+#testp1{
+    color: red;
+}
+.testp2{
+    font-size: 20px;
+    color: blueviolet;
+}
+/*  */
+
+.all_heading{
+    color: red;
+}
+
+.div_headings{
+    font-weight: bold;
+    color: orange;
+    font-size: 40px;
+}
+
+.all_rem_heading{
+    color:blue;
+}
+
+.all_rem_div{
+    font-size: 40px;
+    color: aqua;
+}
+
+/* 
+ */
+
+ .toggle_blue{
+    color:green;
+ }
+
+ .toggle_div{
+    color: red;
+    font-size: 30px;
+ }
